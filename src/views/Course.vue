@@ -1,0 +1,9 @@
+<template>
+    <div>
+        <v-app>
+            <v-content>
+            <h1>test</h1>
+            </v-content>
+        </v-app>
+    </div>
+</template>
